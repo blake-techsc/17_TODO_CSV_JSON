@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Osaka",
+        "age": 18,
+        "job": "Student"
+    },
+    {
+        "name": "Nami",
+        "age": 35,
+        "job": "Pirate"
+    },
+    {
+        "name": "Misato",
+        "age": 29,
+        "job": "Commander"
+    }
+]
