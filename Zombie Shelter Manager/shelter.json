@@ -1,0 +1,9 @@
+{
+    "shelter_name": "The best possible shelter trust me bro",
+    "leader": "John Pork",
+    "survivors": 15,
+    "food": 45,
+    "water": 30,
+    "barricade_health": 75,
+    "radio_working": true
+}
