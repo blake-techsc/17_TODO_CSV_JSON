@@ -5,5 +5,5 @@
     "food": 45,
     "water": 30,
     "barricade_health": 75,
-    "radio_working": true
+    "radio_working": false
 }
