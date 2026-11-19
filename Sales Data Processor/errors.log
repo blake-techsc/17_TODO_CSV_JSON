@@ -1,0 +1,12 @@
+Line 36 | Invalid Qty or Price Total: abc | Taylor Smith,Mouse,abc,29.98
+Line 127 | Invalid Qty or Price Total:  | Jordan Lee,Monitor,199.99
+Line 218 | Invalid Qty or Price Total: 2 | Casey Brown,Keyboard,2
+Line 340 | Blank Customer or Item | Webcam,3,119.97
+Line 467 | Value must be positive: -2 | Alex Morgan,Headset,-2,-99.98
+Line 571 | Invalid Qty or Price Total: 2 | Jamie Davis,Mouse,2,not_a_price
+Line 688 | Blank Customer or Item | Robin Allen,1,29.99
+Line 742 | Invalid Qty or Price Total: 1 | Avery Miller,Monitor,1
+Line 865 | Invalid Qty or Price Total: 2 | Sam Wilson,Keyboard,2
+Line 973 | Negative price: -39.99 | Blake King,Webcam,1,-39.99
+Line 1081 | Invalid Qty or Price Total: 2.5 | Quinn Lewis,Headset,2.5,124.98
+Line 1166 | Value must be positive: 0 | Reese Walker,Mouse,0,0
